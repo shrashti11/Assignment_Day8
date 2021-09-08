@@ -1,0 +1,29 @@
+input,  button {
+  width : 150px;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font  : vardana;
+  padding : 0.5em;
+  margin  : 0;
+  text-align : center;
+  
+  opacity: 0.50;
+  
+}
+div.first {
+	background: rgba(0, 151, 19,1);
+}
+
+form {
+  position : relative;
+  width  : 750px;
+  height : 400px;
+  margin : 0 auto;
+  padding: 10;
+  box-sizing: border-box;
+  background :url(Background1.jpg);
+  
+}
